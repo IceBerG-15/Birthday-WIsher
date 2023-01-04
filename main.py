@@ -40,4 +40,3 @@ for i in info:
 
 
 
-
